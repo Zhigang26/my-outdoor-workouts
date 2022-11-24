@@ -43,7 +43,7 @@ const HIKE_TITLE = IS_CHINESE ? '徒步' : 'Hike';
 const ROWING_TITLE = IS_CHINESE ? '划船' : 'Rowing';
 const KAYAKING_TITLE = IS_CHINESE ? '皮划艇' : 'Kayaking';
 const TRAIL_RUNNING_TITLE = IS_CHINESE ? '越野跑' : 'Trail Running';
-const ROAD_BIKING = IS_CHINESE ? '公路骑行' : 'Road Biking';
+const ROAD_BIKING_TITLE = IS_CHINESE ? '公路骑行' : 'Road Biking';
 const ROAD_TRIP_TITLE = IS_CHINESE ? '自驾' : 'RoadTrip';
 const FLIGHT_TITLE = IS_CHINESE ? '飞行' : 'Flight';
 
