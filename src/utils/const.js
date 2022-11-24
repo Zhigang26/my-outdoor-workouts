@@ -36,7 +36,7 @@ const FULL_MARATHON_RUN_TITLE = IS_CHINESE ? '全程马拉松' : 'Full Marathon'
 const HALF_MARATHON_RUN_TITLE = IS_CHINESE ? '半程马拉松' : 'Half Marathon';
 const RUN_TITLE = IS_CHINESE ? '跑步' : 'Run';
 const SWIM_TITLE = IS_CHINESE ? '游泳' : 'Swim';
-
+const ROAD_BIKING = IS_CHINESE ? '公路骑行' : 'Road Biking';
 const RIDE_TITLE = IS_CHINESE ? '骑行' : 'Ride';
 const INDOOR_RIDE_TITLE = IS_CHINESE ? '室内骑行' : 'Indoor Ride';
 const HIKE_TITLE = IS_CHINESE ? '徒步' : 'Hike';
@@ -50,7 +50,7 @@ const RUN_TITLES = {
   FULL_MARATHON_RUN_TITLE,
   HALF_MARATHON_RUN_TITLE,
   RUN_TITLE,
-
+  ROAD_BIKING_TITLE,
   RIDE_TITLE,
   INDOOR_RIDE_TITLE,
   HIKE_TITLE,
@@ -88,6 +88,7 @@ const purple = 'rgb(154,118,252)';
 const veryPeri = 'rgb(105,106,173)';//长春花蓝
 const red = 'rgb(255,0,0)';//大红色
 const lightblue = 'rgb(0,255,255)';//浅蓝色
+const white = 'rgb(255,255,255)';//白色
 
 // If your map has an offset please change this line
 // issues #92 and #198
@@ -105,3 +106,4 @@ export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = wpink;
 export const KAYAKING_COLOR = red;
 export const TRAIL_RUNNING_COLOR = lightblue;
+export const ROAD_BIKING_COLOR = white;
