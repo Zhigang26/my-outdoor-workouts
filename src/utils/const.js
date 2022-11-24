@@ -88,7 +88,7 @@ const purple = 'rgb(154,118,252)';
 const veryPeri = 'rgb(105,106,173)';//长春花蓝
 const red = 'rgb(255,0,0)';//大红色
 const lightblue = 'rgb(0,255,255)';//浅蓝色
-const white = 'rgb(255,255,255)';//白色
+const carnatio = 'rgb(249,236,228)';//肉色
 
 // If your map has an offset please change this line
 // issues #92 and #198
@@ -106,4 +106,4 @@ export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = wpink;
 export const KAYAKING_COLOR = red;
 export const TRAIL_RUNNING_COLOR = lightblue;
-export const ROAD_BIKING_COLOR = white;
+export const ROAD_BIKING_COLOR = carnatio;
