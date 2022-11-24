@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'My Outdoor Workouts Map',
     siteUrl: 'https://xiaowu.net:5001',
-    logo: 'https://avatars.githubusercontent.com/u/118618521?v=4',
+    logo: 'https://avatars.githubusercontent.com/u/112084240?s=400&u=ba512f5f6c0fce2d4ed8816c2a24187ee69336a8&v=4',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
