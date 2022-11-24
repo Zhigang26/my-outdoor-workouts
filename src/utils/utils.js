@@ -18,6 +18,7 @@ import {
   RUN_COLOR,
   KAYAKING_COLOR,
   TRAIL_RUNNING_COLOR,
+  ROAD_BIKING_COLOR,
 } from './const';
 
 const titleForShow = (run) => {
@@ -187,6 +188,8 @@ const titleForRun = (run) => {
       return RUN_TITLES.KAYAKING_TITLE;
     case 'Trail Running':
       return RUN_TITLES.TRAIL_RUNNING_TITLE;
+    case 'Road Biking':
+      return RUN_TITLES.ROAD_BIKING_TITLE;
     default:
       return RUN_TITLES.RUN_TITLE;
   }
@@ -215,6 +218,8 @@ const colorFromType = (workoutType) => {
       return KAYAKING_COLOR;
     case 'Trail Running':
       return TRAIL_RUNNING_COLOR;
+    case 'Road Biking':
+      return ROAD_BIKING_COLOR;
     default:
       return MAIN_COLOR;
   }
