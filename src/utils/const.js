@@ -36,13 +36,14 @@ const FULL_MARATHON_RUN_TITLE = IS_CHINESE ? '全程马拉松' : 'Full Marathon'
 const HALF_MARATHON_RUN_TITLE = IS_CHINESE ? '半程马拉松' : 'Half Marathon';
 const RUN_TITLE = IS_CHINESE ? '跑步' : 'Run';
 const SWIM_TITLE = IS_CHINESE ? '游泳' : 'Swim';
-const ROAD_BIKING = IS_CHINESE ? '公路骑行' : 'Road Biking';
+
 const RIDE_TITLE = IS_CHINESE ? '骑行' : 'Ride';
 const INDOOR_RIDE_TITLE = IS_CHINESE ? '室内骑行' : 'Indoor Ride';
 const HIKE_TITLE = IS_CHINESE ? '徒步' : 'Hike';
 const ROWING_TITLE = IS_CHINESE ? '划船' : 'Rowing';
 const KAYAKING_TITLE = IS_CHINESE ? '皮划艇' : 'Kayaking';
 const TRAIL_RUNNING_TITLE = IS_CHINESE ? '越野跑' : 'Trail Running';
+const ROAD_BIKING = IS_CHINESE ? '公路骑行' : 'Road Biking';
 const ROAD_TRIP_TITLE = IS_CHINESE ? '自驾' : 'RoadTrip';
 const FLIGHT_TITLE = IS_CHINESE ? '飞行' : 'Flight';
 
@@ -50,7 +51,7 @@ const RUN_TITLES = {
   FULL_MARATHON_RUN_TITLE,
   HALF_MARATHON_RUN_TITLE,
   RUN_TITLE,
-  ROAD_BIKING_TITLE,
+
   RIDE_TITLE,
   INDOOR_RIDE_TITLE,
   HIKE_TITLE,
@@ -59,6 +60,7 @@ const RUN_TITLES = {
   TRAIL_RUNNING_TITLE,
   SWIM_TITLE,
   ROAD_TRIP_TITLE,
+  ROAD_BIKING_TITLE,
   FLIGHT_TITLE,
 };
 
