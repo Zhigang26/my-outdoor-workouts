@@ -13426,7 +13426,7 @@
 },
 {
 "run_id": 1700295006000,
-"name": "\u7528Apex 2 Pro \u8dd1\u6b65",
+"name": "\u6d66\u4e1c\u65b0\u533a \u8dd1\u6b65",
 "distance": 10301.946910857656,
 "moving_time": "1:05:43",
 "type": "Run",
@@ -13468,5 +13468,20 @@
 "average_speed": 2.531615250941069,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1700703705000,
+"name": "\u6d66\u4e1c\u65b0\u533a \u9a91\u884c",
+"distance": 5024.927592555244,
+"moving_time": "0:30:12",
+"type": "Ride",
+"start_date": "2023-11-23 01:41:45",
+"start_date_local": "2023-11-23 09:41:45",
+"location_country": "\u5170\u8c37\u8def, \u9ad8\u884c\u9547, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 201207, \u4e2d\u56fd",
+"summary_polyline": "wg`~DmwbeVo@A]cAUh@qF_E}Dc@Qn@AzW]t@{p@_@QbPj@fBlSBjAlAXhBWbMmUJa@_@Nmc@zYE~Vd@B_]~EVfE`DPm@f@hA`A?",
+"average_heartrate": 105.0,
+"average_speed": 2.773138847988545,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
